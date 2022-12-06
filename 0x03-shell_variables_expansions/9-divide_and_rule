@@ -1,6 +1,2 @@
 #!/bin/bash
 echo $(( $POWER / $DIVIDE ))
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
